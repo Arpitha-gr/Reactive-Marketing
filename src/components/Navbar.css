@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
